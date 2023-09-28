@@ -3,7 +3,7 @@
 I am a statistics and physics graduate, and I'm excited for you to explore my work on github!
 I think some of the projects are pretty fun.
 
-Personally, I believe the key to success in many technical roles relies just as much on communicating your projects effectively to your team and beyond as the technical ability to get the work done well and reliably. In this github, I focus on showing the breadth of my technical know-how with a number of computational projects.
+Personally, I believe the key to success in many technical roles relies just as much on communicating your projects effectively to your team and beyond as the technical ability to get the work done well and reliably. In this github, I focus on the latter, demonstrating the breadth of my technical know-how with a number of computational projects.
 
 
 <!--
