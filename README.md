@@ -1,6 +1,9 @@
 ### Welcome to my Github! 👋
 
-I am a statistics and physics graduate, and I'm excited you're exploring some of the projects I have attached on my github! Somoe of which, I think, are pretty fun. Personally, I believe the key to success in a technical relies just as much on communicating your projects effectively to your team and beyond, and the technical ability to get the work done well and reliably. In this github, I focus on showing the breadth of my technical know-how with a number of computational projects.
+I am a statistics and physics graduate, and I'm excited for you to explore my work on github!
+I think some of the projects are pretty fun.
+
+Personally, I believe the key to success in manyy technical roles relies just as much on communicating your projects effectively to your team and beyond, and the technical ability to get the work done well and reliably. In this github, I focus on showing the breadth of my technical know-how with a number of computational projects.
 
 
 <!--
