@@ -1,9 +1,9 @@
 ### Welcome to my Github! 👋
 
-I am a statistics and physics graduate, and I'm excited for you to explore my work on github!
+I am a statistics and physics graduate, and I'm excited for you to see my work on github!
 I think some of the projects are pretty fun.
 
-Personally, I believe the key to success in many technical roles relies just as much on communicating your projects effectively to your team and beyond as the technical ability to get the work done well and reliably. In this github, I focus on the latter, demonstrating the breadth of my technical know-how with the projects you can find below.
+I believe success in a technincal role relies on both the ability to create useful computational tools and visualizations and the ability to comunicate them accessably. In this github, I focus on the former, demonstrating the breadth of my technical know-how with the projects you can find below. 
 
 [test](https://devcracker.medium.com/how-to-add-a-link-or-hyperlink-in-readme-md-file-68752bb6499e)
 
