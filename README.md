@@ -1,7 +1,6 @@
 ### Welcome to my Github! 👋
 
-I am a statistics and physics graduate, and I'm excited for you to see my work on github!
-I think some of the projects are pretty fun.
+I am a statistics and physics graduate, and I'm excited for you to see my work on github! I've had fun making them and putting them on here and hope you can enjoy looking them over, too!
 
 I believe success in a technincal role relies on both the ability to create useful computational tools and visualizations and the ability to comunicate them accessably. In this github, I focus on the former, demonstrating the breadth of my technical know-how with the projects you can find below. 
 
