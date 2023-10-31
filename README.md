@@ -10,8 +10,6 @@ I'm excited for you to see my work on github! I've had fun making these projects
 
 I believe success in a technical role relies on both the ability to create useful computational tools and visualizations and the ability to communicate them accessibly. In this github, I focus on the former, demonstrating the breadth of my technical know-how with the projects you can find below. 
 
-[test](https://github.com/dominicholcomb/Thesis)
-
 
 <!--
 **dominicholcomb/dominicholcomb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
