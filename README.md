@@ -1,14 +1,6 @@
 ### Welcome to my Github! 👋
 
-I am a statistics and physics graduate, with data analysis experience in diverse domains:
-
-* conducted analysis for a gravitational-wave detection research lab (LIGO)
-* managed & reconfigured internal databases, and created automation tools & dashboards at a biopharmatceutical (CSL Behring)
-* and more!
-
-I'm excited for you to see my work on github! I've had fun making these projects and hope you can enjoy looking them over, too!
-
-I believe success in a technical role relies on both the ability to create useful computational tools and visualizations and the ability to communicate them accessibly. In this github, I focus on the former, demonstrating the breadth of my technical know-how with the projects you can find below. 
+Heyyyy
 
 
 <!--
