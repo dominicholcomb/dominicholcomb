@@ -1,6 +1,6 @@
 ### Welcome to my Github! 👋
 
-Hey!
+Hey! Hope you enjoy looking through my profile. Connect Four Reinforcement Learning Bot coming soon!
 
 
 <!--
