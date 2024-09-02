@@ -1,6 +1,6 @@
 ### Welcome to my Github! 👋
 
-Heyyyy
+Hey!
 
 
 <!--
